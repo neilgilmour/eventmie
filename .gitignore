@@ -18,3 +18,4 @@ package-lock.json
 
 # Vscode Specific files
 /.vscode
+.idea
